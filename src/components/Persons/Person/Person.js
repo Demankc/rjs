@@ -1,7 +1,7 @@
 import React from 'react';
 
 import classes from './Person.css';
-import './Person.css'
+import './Person.css';
 
 const person = (props) => {
     return (

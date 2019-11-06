@@ -1,0 +1,24 @@
+{
+  "sessions": [
+    {
+      "id": "4f8afaaa-5ec0-48d5-9df4-266e130e6b2d",
+      "tabLayout": {
+        "type": "stack",
+        "width": 100,
+        "height": 100,
+        "tabs": [
+          {
+            "id": "e8dffc23-5d4b-4fd9-bc15-4b87b79b99b9",
+            "relativeUrl": "file://./src/components/Persons/Persons.js",
+            "additionalData": null
+          }
+        ],
+        "subItems": [],
+        "activeItemIndex": 0
+      },
+      "lastUsed": 1573057831301,
+      "fileTreeExpanded": true,
+      "selectedTabId": "e8dffc23-5d4b-4fd9-bc15-4b87b79b99b9"
+    }
+  ]
+}
